@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="trilokh.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="venom" src="https://img.shields.io/badge/venom-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="trilokh" src="https://img.shields.io/badge/trilokh-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Althafw"><img title="Author" src="https://img.shields.io/badge/Author-Althafw/venom?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Althafw"><img title="Author" src="https://img.shields.io/badge/Author-Althafw/trilokh?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/Althafw">Althafw</a> to make it p
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Althafw/venom">
-    <img src="https://img.shields.io/github/repo-size/Althafw/venom?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Althafw/trilokh">
+    <img src="https://img.shields.io/github/repo-size/Althafw/trilokh?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Althafw/followers"><img title="Followers" src="https://img.shields.io/github/followers/Althafw?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Althafw/venom/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Althafw/venom?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Althafw/venom/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Althafw/venom?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/Althafw/venom/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Althafw/venom?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Althafw/trilokh/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Althafw/trilokh?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Althafw/trilokh/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Althafw/trilokh?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/Althafw/trilokh/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Althafw/trilokh?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
@@ -55,7 +55,7 @@ Click WA logo to Join Support Group 👇
 ## 
   <h3 align="center">📢 Support Group 2:</h3>
 <p align="center">
-Click venom logo to Join Support Group 2👇
+Click trilokh logo to Join Support Group 2👇
     <br>
 <br>
   <a href="https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6" target="blank"><img align="center" src="https://i.hizliresim.com/pce1372.png" alt="kyrie.baran" height="200" width="200" /></a>
@@ -68,7 +68,7 @@ Click venom logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Althafw/venom.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Althafw/trilokh.git)
      </div>
 <br>
 <br >
@@ -83,8 +83,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Althafw/venom
-$ cd venom
+$ git clone https://github.com/Althafw/trilokh
+$ cd trilokh
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -93,8 +93,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Althafw/venom
-$ cd venom
+$ git clone https://github.com/Althafw/trilokh
+$ cd trilokh
 $ chmod +x *
 $ npm i
 $ node qr.js
